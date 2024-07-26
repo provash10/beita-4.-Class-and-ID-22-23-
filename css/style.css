@@ -1,0 +1,18 @@
+p{
+    color: red;
+}
+
+.title{
+    background-color: aqua;
+    color: blue;
+}
+.bold{
+    font-weight: bold;
+}
+.text{
+    background-color: green;
+    color: brown;
+}
+#sms{
+    color: aqua;
+}

@@ -1,0 +1,28 @@
+ <link href="css/style.css" rel="stylesheet"/>
+class>>>Dot (.) 
+ID>>> Hash (#)
+ =============================
+class = Many uses
+ID = One use
+===========================
+p{
+    color: red;
+}
+
+.title{
+    background-color: aqua;
+    color: blue;
+}
+.text{
+    background-color: green;
+    color: brown;
+}
+#sms{
+    color: aqua;
+}
+=========================
+23 Multiple Class
+<p class="title bold">this is my paragraph</p>
+ <p class="title bold">this is my paragraph</p>
+.bold{
+    font-weight: bold;}
